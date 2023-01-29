@@ -1,8 +1,14 @@
 # data-4ac
 ## Professor Ari Edmundson
-> Currently maintained by: Jonathan Ferrari, Drishti Gupta, Erica Jean, Manaar Salama, and the HCE Team
+> Currently maintained by: Jonathan Ferrari, and the HCE Team
 
 Modules for the Data 4AC Class offered by UC Berkeley. 
+
+
+## DatahHub Links:
+
+- [ALPR Notebook](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-4ac%2FSpring-23&branch=main&urlpath=tree%2FSpring-23%2FALPR%2FALPR_Notebook.ipynb)
+
 
 ## Quick Links:
 
