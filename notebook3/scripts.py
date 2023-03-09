@@ -41,7 +41,7 @@ inp = widgets.IntSlider(
 
 def f(inp):
     inst = grouped.where(0, institutions[inp])
-    sns.lineplot(data = inst, x = 1, y = "Percent Occupied")
+    fig = sns.lineplot(data = inst, x = 1, y = "Percent Occupied")
     year1 = inst.column("year") 
     if any(year1 == 2011):
 #         plt.axvline(x=2011, color = "red")
@@ -78,5 +78,6 @@ def f(inp):
         
         
     plt.title(institutions[inp])
+    return fig
     
 out = widgets.interactive_output(f, {'inp': inp})
