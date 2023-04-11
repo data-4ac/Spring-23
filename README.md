@@ -12,7 +12,7 @@ Modules for the Data 4AC Class offered by UC Berkeley.
 - [Notebook 2](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-4ac%2FSpring-23&branch=main&urlpath=tree%2FSpring-23%2Fnotebook2%2Fnotebook2.ipynb)
 - [Notebook 3](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-4ac%2FSpring-23&branch=main&urlpath=tree%2FSpring-23%2Fnotebook3%2Fnotebook3.ipynb)
 - [Notebook 4](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-4ac%2FSpring-23&urlpath=tree%2FSpring-23%2Fnotebook4%2520-%2520COMPAS%2Fnotebook4compas.ipynb&branch=main)
-- [Notebook 5] (NOT LINKED YET)
+- [Notebook 5] (https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-4ac%2FSpring-23&urlpath=tree%2FSpring-23%2Fnotebook6%2Fnotebook5s23.ipynb&branch=main) this is located in the folder for notebook6 
 - [Notebook 6] (NOT LINKED YET)
 
 
